@@ -1,4 +1,4 @@
-Here's a README file tailored for GitHub:
+Here's the revised README file without the output section:
 
 ---
 
@@ -83,41 +83,6 @@ The main class that drives the program. It handles:
 
 4. **Input:** Provide details as prompted for additional students.
 
-5. **Output:** The program displays unsorted and sorted student lists, and then enrolls and displays students in a course.
-
-## 📝 Example Input/Output
-
-- **Input:**
-  ```plaintext
-  Enter the number of additional students: 2
-  Enter student ID for student 1: 106
-  Enter name for student 1: Raj
-  Enter age for student 1: 21
-  Enter CGPA for student 1: 3.7
-  Enter student ID for student 2: 107
-  Enter name for student 2: Karan
-  Enter age for student 2: 22
-  Enter CGPA for student 2: 3.3
-  ```
-
-- **Output:**
-  ```plaintext
-  Unsorted students:
-  Name: Raj, ID: 106, Age: 21, CGPA: 3.7
-  Name: Karan, ID: 107, Age: 22, CGPA: 3.3
-  ...
-  
-  Sorted students by ID:
-  Name: Raj, ID: 106, Age: 21, CGPA: 3.7
-  Name: Karan, ID: 107, Age: 22, CGPA: 3.3
-  ...
-  
-  Enrolled students:
-  Name: Raj, ID: 106, Age: 21, CGPA: 3.7, Course Name: Introduction to Computer Science
-  Name: Karan, ID: 107, Age: 22, CGPA: 3.3, Course Name: Introduction to Computer Science
-  ...
-  ```
-
 ## 📂 Project Structure
 
 - `CollegePortal.java`: The main Java file containing the entire program.
@@ -136,8 +101,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For any questions or suggestions, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, feel free to reach out at [your-email@example.com](mailto:stuti2011shah@gmail.com).
 
----
-
-Replace placeholders like `yourusername`, `your-email@example.com`, and `LICENSE` with your actual details before using this README on GitHub.
